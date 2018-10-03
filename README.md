@@ -1,4 +1,4 @@
-#Zpass Js Version
+# Zpass Js Version
 
 Zpass is password generator
 
